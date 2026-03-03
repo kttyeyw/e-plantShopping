@@ -6,5 +6,3 @@ import cartReducer from './CartSlice';
     },
 });
 export default store
-
-
